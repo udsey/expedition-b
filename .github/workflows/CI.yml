@@ -1,4 +1,4 @@
-name: Expedition B application
+name: Run CI
 
 on:
   push:
