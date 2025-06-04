@@ -1,5 +1,4 @@
 """Tests for main.py using pytest."""
-
 from code.main import add
 
 def test_even():
